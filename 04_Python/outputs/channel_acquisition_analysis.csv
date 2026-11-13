@@ -1,0 +1,6 @@
+channel,total_spend,total_leads,total_conversions,total_revenue,conversion_rate_percentage,cost_per_lead,cost_per_conversion,cac_rank,conversion_rate_rank
+affiliate,857835.07,67849,10352,5610700.73,15.2574,12.6433,82.8666,1,2
+paid_search,897091.53,65268,10019,5439329.35,15.3506,13.7447,89.539,2,1
+paid_social,984731.88,57619,8648,4690137.28,15.0089,17.0904,113.8682,3,4
+display,955297.0,45149,6744,3734117.43,14.9372,21.1588,141.6514,4,5
+video,828094.54,25799,3933,2087554.22,15.2448,32.0979,210.5504,5,3

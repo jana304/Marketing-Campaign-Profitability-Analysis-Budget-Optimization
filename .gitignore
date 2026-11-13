@@ -1,0 +1,40 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# VS Code local settings
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+~$*
+.DS_Store
+Thumbs.db
+
+# Project structure exports
+project_structure.txt
+project_files_clean.txt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python packaging artifacts
+build/
+dist/
+*.egg-info/

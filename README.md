@@ -136,29 +136,7 @@ An illustrative scenario reallocates 10% of Video advertising spend to historica
 
 *The model assumes historical ROAS remains constant. Results are illustrative, not guaranteed forecasts.*
 
-## 11. Data Visualizations
-
-### Revenue by Marketing Channel
-![Revenue by Channel](05_Visualizations/01_revenue_by_channel.png)
-
-### Return on Ad Spend
-![ROAS by Channel](05_Visualizations/02_roas_by_channel.png)
-
-### Monthly Spend vs Revenue
-![Monthly Trends](05_Visualizations/03_monthly_spend_vs_revenue.png)
-
-### Advertising Cost per Conversion
-![Cost per Conversion](05_Visualizations/04_cost_per_conversion.png)
-
-### Marketing Profit by Channel
-![Marketing Profit](05_Visualizations/06_marketing_profit_by_channel.png)
-
-### Budget Optimization Comparison
-![Budget Optimization](05_Visualizations/08_budget_optimization_comparison.png)
-
-[View All Eight Visualizations](05_Visualizations/)
-
-## 12. Project Structure
+## 11. Project Structure
 
 ```text
 MARKETING_PROFITABILITY/
@@ -174,7 +152,7 @@ MARKETING_PROFITABILITY/
 └── README.md
 ```
 
-## 13. Reports and Presentation
+## 12. Reports and Presentation
 
 **Business Reports**
 
@@ -187,8 +165,7 @@ MARKETING_PROFITABILITY/
 
 [View PowerPoint Presentation](07_Presentation/Marketing_Profitability_Project_Presentation.pptx)
 
-## 14. Business Recommendations
-
+## 13. Business Recommendations
 - Evaluate controlled budget expansion for Affiliate and Paid Search.
 - Improve Paid Social targeting and campaign performance.
 - Investigate Display and Video advertising efficiency.
@@ -209,7 +186,7 @@ The original dataset has been cleaned, transformed, and analyzed for this portfo
 
 The dataset does not represent real individuals or organizations, and the analytical findings should not be treated as industry benchmarks.
 
-## 15. Conclusion
+## 14. Conclusion
 
 The project demonstrates an end-to-end marketing analytics workflow using Excel, SQL, and Python.
 
